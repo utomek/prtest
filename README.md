@@ -21,7 +21,7 @@ _Collaborate and work together on GitHub._
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
-All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving.
+All great projects start with collaboration. Pull requests are the foundation of teamwork on GitHub — and pull request reviews give you the ability to work together and discuss changes specific to a pull request by commenting, requesting changes, or approving or whatever.
 
 - **Who is this for**: Developers, new GitHub users, users new to Git, students, managers, teams.
 - **What you'll learn**: When and how to request a review; how to provide a review of someone else's pull request.
